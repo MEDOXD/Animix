@@ -1,0 +1,11 @@
+img {
+    width: 200px;
+}
+    
+body {
+    background: fixed;
+  text-align: center;
+  font-family: 'Arial';
+  background-image: url('movie.gif');
+  background-size: 50%;
+}
